@@ -12,6 +12,8 @@ Un chevalier est encerclé par quatre gobelins archers dans une salle de donjon.
 **Jouer en ligne : https://l4ami.github.io/shield-hero/** (clavier requis)<br>
 **Documentation technique du code : [DOCUMENTATION.md](DOCUMENTATION.md)**
 
+![Partie en cours : un gobelin tire, le chevalier perd un cœur puis pare la flèche suivante](media/gameplay.gif)
+
 ## Règles du jeu
 
 1. Un gobelin choisi au hasard bande son arc : c'est le signal, il reste environ une seconde pour réagir.
@@ -29,6 +31,13 @@ Un chevalier est encerclé par quatre gobelins archers dans une salle de donjon.
 | Bouclier vers la droite | `D` ou `→` |
 
 Clavier AZERTY : utilisez les flèches directionnelles.
+
+## Captures
+
+<p align="center">
+  <img src="media/capture-arene.png" alt="Vue d'ensemble de l'arène" width="49%">
+  <img src="media/capture-tir.png" alt="Une flèche enflammée vole vers le chevalier" width="49%">
+</p>
 
 ## Points techniques
 

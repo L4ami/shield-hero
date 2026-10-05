@@ -22,6 +22,12 @@ Elle est écrite pour être lisible sans connaître Unity : chaque terme techniq
 
 Le joueur incarne un chevalier immobile au centre d'une salle de donjon. Quatre gobelins archers, placés en haut, en bas, à gauche et à droite, tirent chacun leur tour. Le chevalier ne se déplace pas : le joueur oriente seulement son bouclier dans l'une des 4 directions.
 
+La capture ci-dessous a été prise dans la version Web du jeu, au début d'une partie.
+
+![Vue d'ensemble de l'arène](https://raw.githubusercontent.com/L4ami/shield-hero/main/media/capture-arene.png)
+
+On y retrouve tous les éléments de la scène : le chevalier au centre, les quatre gobelins sur les côtés, le score en haut à gauche et les trois cœurs encore verts en bas à droite.
+
 **La boucle de jeu**, c'est-à-dire ce qui se répète pendant toute la partie :
 
 ```mermaid
@@ -460,6 +466,12 @@ Deux détails de `Random.Range` à connaître :
 
 - avec des nombres **entiers**, la borne maximale est **exclue** : `Random.Range(0, 4)` donne 0, 1, 2 ou 3, soit exactement les positions d'un tableau de 4 flèches ;
 - avec des nombres **décimaux**, n'importe quelle valeur entre les bornes est possible : `Random.Range(1f, 2.5f)` peut donner 1,73.
+
+La capture suivante a été prise juste après un tir du gobelin de gauche :
+
+![Une flèche enflammée vole vers le chevalier](https://raw.githubusercontent.com/L4ami/shield-hero/main/media/capture-tir.png)
+
+La flèche avance en ligne droite vers le côté gauche du chevalier, et aucune autre flèche n'est en vol : c'est la règle « une seule flèche à la fois » imposée par `LanceurFleches`.
 
 Le déroulé d'un tir, étape par étape :
 
