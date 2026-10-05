@@ -1,0 +1,4 @@
+# Fins de ligne : Git stocke les fichiers texte avec des fins de ligne Linux (LF)
+# et les convertit automatiquement selon le système de chacun.
+# Les fichiers binaires (images, build Web...) sont détectés et laissés intacts.
+* text=auto

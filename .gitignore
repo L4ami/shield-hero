@@ -1,0 +1,70 @@
+# =====================================================================
+#  .gitignore du projet Unity « Shield Hero »
+#  Liste ce que Git doit IGNORER : fichiers recréés automatiquement,
+#  fichiers propres à un PC, et assets tiers qu'on n'a pas le droit
+#  de redistribuer.
+# =====================================================================
+
+# --- Dossiers générés par Unity (recréés à l'ouverture du projet) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- Sauvegardes automatiques de scènes après un crash de Unity ---
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# --- Fichiers générés par les éditeurs de code (Visual Studio, Rider, VS Code) ---
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# --- Unity Version Control (outil de travail en binôme, pas pour GitHub) ---
+.plastic/
+ignore.conf
+
+# --- Divers ---
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.app
+*.unitypackage
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Assets tiers NON redistribuables ---
+# Pack « Pixel Art Top Down - Basic » de Cainos : gratuit et utilisable dans un jeu,
+# mais sa licence interdit de redistribuer les fichiers. Les images restent sur le PC
+# (le projet fonctionne en local) mais ne partent pas sur GitHub. Leurs .meta
+# (réglages de découpage, aucune image dedans) sont publiés : voir le README,
+# section « Ouvrir le projet dans Unity ».
+/Assets/TX Props.png
+/Assets/TX Tileset Stone Ground.png
+/Assets/TX Tileset Wall.png

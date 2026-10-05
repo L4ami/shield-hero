@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: e233d43effe222342a202418a08de10b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1701162896932470242
+    second: goblin_arc_planche_complete_0
+  - first:
+      213: -7658662840350651246
+    second: goblin_arc_planche_complete_1
+  - first:
+      213: -3047843470764921685
+    second: goblin_arc_planche_complete_2
+  - first:
+      213: 5779039211449761463
+    second: goblin_arc_planche_complete_3
+  - first:
+      213: -6713879211763414705
+    second: goblin_arc_planche_complete_4
+  - first:
+      213: 750213668499102848
+    second: goblin_arc_planche_complete_5
+  - first:
+      213: 5769887600475032930
+    second: goblin_arc_planche_complete_6
+  - first:
+      213: -6309555172211124550
+    second: goblin_arc_planche_complete_7
+  - first:
+      213: 7920867510506354235
+    second: goblin_arc_planche_complete_8
+  - first:
+      213: 1517981290686073977
+    second: goblin_arc_planche_complete_9
+  - first:
+      213: -685767923888743545
+    second: goblin_arc_planche_complete_10
+  - first:
+      213: -8347219272376039604
+    second: goblin_arc_planche_complete_11
+  - first:
+      213: -8868862436647350278
+    second: goblin_arc_planche_complete_12
+  - first:
+      213: 5763771552163585861
+    second: goblin_arc_planche_complete_13
+  - first:
+      213: -6449378788470401327
+    second: goblin_arc_planche_complete_14
+  - first:
+      213: -2723119548532742985
+    second: goblin_arc_planche_complete_15
+  - first:
+      213: 899481230487774449
+    second: goblin_arc_planche_complete_16
+  - first:
+      213: -355091333427790130
+    second: goblin_arc_planche_complete_17
+  - first:
+      213: 7694802784987967695
+    second: goblin_arc_planche_complete_18
+  - first:
+      213: 7747249652654275249
+    second: goblin_arc_planche_complete_19
+  - first:
+      213: 6808180234457470915
+    second: goblin_arc_planche_complete_20
+  - first:
+      213: -5018447603578829931
+    second: goblin_arc_planche_complete_21
+  - first:
+      213: -5809547999887788241
+    second: goblin_arc_planche_complete_22
+  - first:
+      213: 6018983655734183205
+    second: goblin_arc_planche_complete_23
+  - first:
+      213: 454540820033271897
+    second: goblin_arc_planche_complete_24
+  - first:
+      213: 9177832868408045938
+    second: goblin_arc_planche_complete_25
+  - first:
+      213: 595601021238797207
+    second: goblin_arc_planche_complete_26
+  - first:
+      213: 4418078387051773532
+    second: goblin_arc_planche_complete_27
+  - first:
+      213: 2575820569196392754
+    second: goblin_arc_planche_complete_28
+  - first:
+      213: -1547491226290741931
+    second: goblin_arc_planche_complete_29
+  - first:
+      213: -1871739603977403597
+    second: goblin_arc_planche_complete_30
+  - first:
+      213: 9182224405955918986
+    second: goblin_arc_planche_complete_31
+  - first:
+      213: 6963647505291825611
+    second: goblin_arc_planche_complete_32
+  - first:
+      213: 388591741242449366
+    second: goblin_arc_planche_complete_33
+  - first:
+      213: 6789756110602957255
+    second: goblin_arc_planche_complete_34
+  - first:
+      213: 4085226521612845727
+    second: goblin_arc_planche_complete_35
+  - first:
+      213: 5356203850676941636
+    second: goblin_arc_planche_complete_36
+  - first:
+      213: 3109834052846415599
+    second: goblin_arc_planche_complete_37
+  - first:
+      213: -6591501378489737115
+    second: goblin_arc_planche_complete_38
+  - first:
+      213: -7469399240010988357
+    second: goblin_arc_planche_complete_39
+  - first:
+      213: -9088275595446316550
+    second: goblin_arc_planche_complete_40
+  - first:
+      213: -3493965657200117148
+    second: goblin_arc_planche_complete_41
+  - first:
+      213: 1361093625388519286
+    second: goblin_arc_planche_complete_42
+  - first:
+      213: 8069397572486987722
+    second: goblin_arc_planche_complete_43
+  - first:
+      213: -526085666452898584
+    second: goblin_arc_planche_complete_44
+  - first:
+      213: 3414504604561900187
+    second: goblin_arc_planche_complete_45
+  - first:
+      213: 4219529149381681299
+    second: goblin_arc_planche_complete_46
+  - first:
+      213: -5737790279946347478
+    second: goblin_arc_planche_complete_47
+  - first:
+      213: 1612187738629736248
+    second: goblin_arc_planche_complete_48
+  - first:
+      213: 7762333923952464213
+    second: goblin_arc_planche_complete_49
+  - first:
+      213: -8664979266578247326
+    second: goblin_arc_planche_complete_50
+  - first:
+      213: -628297995174485024
+    second: goblin_arc_planche_complete_51
+  - first:
+      213: 3433081551489287055
+    second: goblin_arc_planche_complete_52
+  - first:
+      213: -746172474619517164
+    second: goblin_arc_planche_complete_53
+  - first:
+      213: -1324270368565455185
+    second: goblin_arc_planche_complete_54
+  - first:
+      213: -2053727164288800784
+    second: goblin_arc_planche_complete_55
+  - first:
+      213: -2572771957559853004
+    second: goblin_arc_planche_complete_56
+  - first:
+      213: -8311739859671109644
+    second: goblin_arc_planche_complete_57
+  - first:
+      213: 5982788044419690218
+    second: goblin_arc_planche_complete_58
+  - first:
+      213: -873762335006542194
+    second: goblin_arc_planche_complete_59
+  - first:
+      213: 1951892463478721606
+    second: goblin_arc_planche_complete_60
+  - first:
+      213: 1807358812913355252
+    second: goblin_arc_planche_complete_61
+  - first:
+      213: -8489765778941581737
+    second: goblin_arc_planche_complete_62
+  - first:
+      213: -4643551545849506394
+    second: goblin_arc_planche_complete_63
+  - first:
+      213: 1261405012244618852
+    second: goblin_arc_planche_complete_64
+  - first:
+      213: -6649352004828444023
+    second: goblin_arc_planche_complete_65
+  - first:
+      213: 4146286202048093267
+    second: goblin_arc_planche_complete_66
+  - first:
+      213: -1009798111918387739
+    second: goblin_arc_planche_complete_67
+  - first:
+      213: -5721384760315361906
+    second: goblin_arc_planche_complete_68
+  - first:
+      213: -792755816871038122
+    second: goblin_arc_planche_complete_69
+  - first:
+      213: -9184632953805895399
+    second: goblin_arc_planche_complete_70
+  - first:
+      213: 107051269967920164
+    second: goblin_arc_planche_complete_71
+  - first:
+      213: -2077317370721073516
+    second: goblin_arc_planche_complete_72
+  - first:
+      213: -652335032783559104
+    second: goblin_arc_planche_complete_73
+  - first:
+      213: 289661718428736406
+    second: goblin_arc_planche_complete_74
+  - first:
+      213: 8603011890796750707
+    second: goblin_arc_planche_complete_75
+  - first:
+      213: 6205322882425121179
+    second: goblin_arc_planche_complete_76
+  - first:
+      213: -8939861833939048144
+    second: goblin_arc_planche_complete_77
+  - first:
+      213: 7772470463309596824
+    second: goblin_arc_planche_complete_78
+  - first:
+      213: -5148329001667670510
+    second: goblin_arc_planche_complete_79
+  - first:
+      213: -3307268222032501250
+    second: goblin_arc_planche_complete_80
+  - first:
+      213: 726179601571293463
+    second: goblin_arc_planche_complete_81
+  - first:
+      213: 7750102967632363534
+    second: goblin_arc_planche_complete_82
+  - first:
+      213: 5050741141979164940
+    second: goblin_arc_planche_complete_83
+  - first:
+      213: 4327690815157836209
+    second: goblin_arc_planche_complete_84
+  - first:
+      213: -4146978625951322594
+    second: goblin_arc_planche_complete_85
+  - first:
+      213: -4772138839067565165
+    second: goblin_arc_planche_complete_86
+  - first:
+      213: -2903276289081684010
+    second: goblin_arc_planche_complete_87
+  - first:
+      213: -8998892169051809609
+    second: goblin_arc_planche_complete_88
+  - first:
+      213: 7804612307784053782
+    second: goblin_arc_planche_complete_89
+  - first:
+      213: 3077398769710188334
+    second: goblin_arc_planche_complete_90
+  - first:
+      213: -5726099905591692869
+    second: goblin_arc_planche_complete_91
+  - first:
+      213: -7190421858402303203
+    second: goblin_arc_planche_complete_92
+  - first:
+      213: -399023116770939112
+    second: goblin_arc_planche_complete_93
+  - first:
+      213: 3957873722564151988
+    second: goblin_arc_planche_complete_94
+  - first:
+      213: -7157894923992832158
+    second: goblin_arc_planche_complete_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 960
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edfbb044aebb9710800000000000000
+      internalID: 1701162896932470242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 960
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c4a6a59b6f6b590800000000000000
+      internalID: -7658662840350651246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 961
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac2012f282e3b5d0800000000000000
+      internalID: -3047843470764921685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 961
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be348d4b85433050800000000000000
+      internalID: 5779039211449761463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 961
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4946f5bd6283d2a0800000000000000
+      internalID: -6713879211763414705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 961
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c18805b5b496a00800000000000000
+      internalID: 750213668499102848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 960
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dce34d332c21050800000000000000
+      internalID: 5769887600475032930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 960
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab690a51005ff68a0800000000000000
+      internalID: -6309555172211124550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 896
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36f9a4c8039ced60800000000000000
+      internalID: 7920867510506354235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 896
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c4807f0f3f01510800000000000000
+      internalID: 1517981290686073977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 897
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1142e4b9ab76f0800000000000000
+      internalID: -685767923888743545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 897
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c474bb71c48b82c80800000000000000
+      internalID: -8347219272376039604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 897
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff44d56a987be480800000000000000
+      internalID: -8868862436647350278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 897
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f563d50b70dff40800000000000000
+      internalID: 5763771552163585861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 896
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6584389243f76a0800000000000000
+      internalID: -6449378788470401327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 896
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a8c4c239853ad0800000000000000
+      internalID: -2723119548532742985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 833
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ea59d9699b7c00800000000000000
+      internalID: 899481230487774449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 833
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece77384056721bf0800000000000000
+      internalID: -355091333427790130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 833
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0f4e73d5e69ca60800000000000000
+      internalID: 7694802784987967695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 833
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf9bc2382c38b60800000000000000
+      internalID: 7747249652654275249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 833
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75ca91ad38b7e50800000000000000
+      internalID: 6808180234457470915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 833
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59306c05e74ea5ab0800000000000000
+      internalID: -5018447603578829931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 833
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277b19dfd6506fa0800000000000000
+      internalID: -5809547999887788241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 833
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250be4beb9b78350800000000000000
+      internalID: 6018983655734183205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 769
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9587ff1b77ade4600800000000000000
+      internalID: 454540820033271897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 769
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bd591e563e5f70800000000000000
+      internalID: 9177832868408045938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 769
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936cc229fff34800800000000000000
+      internalID: 595601021238797207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 769
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e3d0292ea205d30800000000000000
+      internalID: 4418078387051773532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 769
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231781019272fb320800000000000000
+      internalID: 2575820569196392754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 769
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d18ebbde4368ae0800000000000000
+      internalID: -1547491226290741931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 769
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33385e04fbe3606e0800000000000000
+      internalID: -1871739603977403597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 769
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cbcec9270dd6f70800000000000000
+      internalID: 9182224405955918986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc154f5d288d3a060800000000000000
+      internalID: 6963647505291825611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd186b312e846500800000000000000
+      internalID: 388591741242449366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f60c753f0a3e50800000000000000
+      internalID: 6789756110602957255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 641
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920dbf70e3a1b830800000000000000
+      internalID: 4085226521612845727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bd28160f055a40800000000000000
+      internalID: 5356203850676941636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 641
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee25e2899582b20800000000000000
+      internalID: 3109834052846415599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602f966b684684a0800000000000000
+      internalID: -6591501378489737115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 641
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4829d37fc575890800000000000000
+      internalID: -7469399240010988357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af112986f75ffd180800000000000000
+      internalID: -9088275595446316550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 641
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a3c212fb0f28fc0800000000000000
+      internalID: -3493965657200117148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 705
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc45fd07393e210800000000000000
+      internalID: 1361093625388519286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_43
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 641
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7c73b6524cff60800000000000000
+      internalID: 8069397572486987722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 641
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec76a9afd7f2b8f0800000000000000
+      internalID: -526085666452898584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 641
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9209d6d8d1c26f20800000000000000
+      internalID: 3414504604561900187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 577
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3902d44c767ce8a30800000000000000
+      internalID: 4219529149381681299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 577
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cdb18f3264f50b0800000000000000
+      internalID: -5737790279946347478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 577
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370440e434af5610800000000000000
+      internalID: 1612187738629736248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 577
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519625c39959bb60800000000000000
+      internalID: 7762333923952464213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 577
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619a7d144fcfb780800000000000000
+      internalID: -8664979266578247326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 577
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3e8806d46d747f0800000000000000
+      internalID: -628297995174485024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 577
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8347795b71c4af20800000000000000
+      internalID: 3433081551489287055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 513
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4172125761015a5f0800000000000000
+      internalID: -746172474619517164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 513
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69417bd1f3f9de0800000000000000
+      internalID: -1324270368565455185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 513
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7eef27602bf73e0800000000000000
+      internalID: -2053727164288800784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 513
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4300f85298dab4cd0800000000000000
+      internalID: -2572771957559853004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 513
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff29d692a4c6ac80800000000000000
+      internalID: -8311739859671109644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 513
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeee61a3702270350800000000000000
+      internalID: 5982788044419690218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 513
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b1d329c5cfd3f0800000000000000
+      internalID: -873762335006542194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c496d9ad3861b10800000000000000
+      internalID: 1951892463478721606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 385
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94f59b347051910800000000000000
+      internalID: 1807358812913355252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7566be7310b4e2a80800000000000000
+      internalID: -8489765778941581737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_63
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 385
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59c6db87ace8fb0800000000000000
+      internalID: -4643551545849506394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46edcb8ec29618110800000000000000
+      internalID: 1261405012244618852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 385
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4ba5d491c8b3a0800000000000000
+      internalID: -6649352004828444023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 449
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1e2235519a8930800000000000000
+      internalID: 4146286202048093267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 385
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed8e34a7f97cf1f0800000000000000
+      internalID: -1009798111918387739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85c11aafde8990b0800000000000000
+      internalID: -5721384760315361906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 321
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f6c5e8c09ff4f0800000000000000
+      internalID: -792755816871038122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_70
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 321
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198d04adf0a98080800000000000000
+      internalID: -9184632953805895399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_71
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 321
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c313710925c7100800000000000000
+      internalID: 107051269967920164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 257
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4960c608bd2eb23e0800000000000000
+      internalID: -2077317370721073516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 257
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a4607eb072f6f0800000000000000
+      internalID: -652335032783559104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 257
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b59f75cc5150400800000000000000
+      internalID: 289661718428736406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 257
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e665ebb9046770800000000000000
+      internalID: 8603011890796750707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b996d8bc84cbd1650800000000000000
+      internalID: 6205322882425121179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_77
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039adf6070b3fe380800000000000000
+      internalID: -8939861833939048144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898c8c0c4bc5ddb60800000000000000
+      internalID: 7772470463309596824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ec1cccc067d88b0800000000000000
+      internalID: -5148329001667670510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 193
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a0d023193a12d0800000000000000
+      internalID: -3307268222032501250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 129
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719aaca0088e31a00800000000000000
+      internalID: 726179601571293463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e008d665695ed8b60800000000000000
+      internalID: 7750102967632363534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c017e140f46d71640800000000000000
+      internalID: 5050741141979164940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 193
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b914370edb0f0c30800000000000000
+      internalID: 4327690815157836209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_85
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 129
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea80d49e8f276c0800000000000000
+      internalID: -4146978625951322594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393688e7205f5cdb0800000000000000
+      internalID: -4772138839067565165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc878e89d75b7d0800000000000000
+      internalID: -2903276289081684010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85f9b10438d1380800000000000000
+      internalID: -8998892169051809609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143c171b8d8f4c60800000000000000
+      internalID: 7804612307784053782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_90
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ccc450ed15ba20800000000000000
+      internalID: 3077398769710188334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13fca597ec880b0800000000000000
+      internalID: -5726099905591692869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130ab09a6d763c90800000000000000
+      internalID: -7190421858402303203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_93
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fe2b3e692667af0800000000000000
+      internalID: -399023116770939112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0a435e213de630800000000000000
+      internalID: 3957873722564151988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_arc_planche_complete_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267e5d3ad7c0aac90800000000000000
+      internalID: -7157894923992832158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goblin_arc_planche_complete_0: 1701162896932470242
+      goblin_arc_planche_complete_1: -7658662840350651246
+      goblin_arc_planche_complete_10: -685767923888743545
+      goblin_arc_planche_complete_11: -8347219272376039604
+      goblin_arc_planche_complete_12: -8868862436647350278
+      goblin_arc_planche_complete_13: 5763771552163585861
+      goblin_arc_planche_complete_14: -6449378788470401327
+      goblin_arc_planche_complete_15: -2723119548532742985
+      goblin_arc_planche_complete_16: 899481230487774449
+      goblin_arc_planche_complete_17: -355091333427790130
+      goblin_arc_planche_complete_18: 7694802784987967695
+      goblin_arc_planche_complete_19: 7747249652654275249
+      goblin_arc_planche_complete_2: -3047843470764921685
+      goblin_arc_planche_complete_20: 6808180234457470915
+      goblin_arc_planche_complete_21: -5018447603578829931
+      goblin_arc_planche_complete_22: -5809547999887788241
+      goblin_arc_planche_complete_23: 6018983655734183205
+      goblin_arc_planche_complete_24: 454540820033271897
+      goblin_arc_planche_complete_25: 9177832868408045938
+      goblin_arc_planche_complete_26: 595601021238797207
+      goblin_arc_planche_complete_27: 4418078387051773532
+      goblin_arc_planche_complete_28: 2575820569196392754
+      goblin_arc_planche_complete_29: -1547491226290741931
+      goblin_arc_planche_complete_3: 5779039211449761463
+      goblin_arc_planche_complete_30: -1871739603977403597
+      goblin_arc_planche_complete_31: 9182224405955918986
+      goblin_arc_planche_complete_32: 6963647505291825611
+      goblin_arc_planche_complete_33: 388591741242449366
+      goblin_arc_planche_complete_34: 6789756110602957255
+      goblin_arc_planche_complete_35: 4085226521612845727
+      goblin_arc_planche_complete_36: 5356203850676941636
+      goblin_arc_planche_complete_37: 3109834052846415599
+      goblin_arc_planche_complete_38: -6591501378489737115
+      goblin_arc_planche_complete_39: -7469399240010988357
+      goblin_arc_planche_complete_4: -6713879211763414705
+      goblin_arc_planche_complete_40: -9088275595446316550
+      goblin_arc_planche_complete_41: -3493965657200117148
+      goblin_arc_planche_complete_42: 1361093625388519286
+      goblin_arc_planche_complete_43: 8069397572486987722
+      goblin_arc_planche_complete_44: -526085666452898584
+      goblin_arc_planche_complete_45: 3414504604561900187
+      goblin_arc_planche_complete_46: 4219529149381681299
+      goblin_arc_planche_complete_47: -5737790279946347478
+      goblin_arc_planche_complete_48: 1612187738629736248
+      goblin_arc_planche_complete_49: 7762333923952464213
+      goblin_arc_planche_complete_5: 750213668499102848
+      goblin_arc_planche_complete_50: -8664979266578247326
+      goblin_arc_planche_complete_51: -628297995174485024
+      goblin_arc_planche_complete_52: 3433081551489287055
+      goblin_arc_planche_complete_53: -746172474619517164
+      goblin_arc_planche_complete_54: -1324270368565455185
+      goblin_arc_planche_complete_55: -2053727164288800784
+      goblin_arc_planche_complete_56: -2572771957559853004
+      goblin_arc_planche_complete_57: -8311739859671109644
+      goblin_arc_planche_complete_58: 5982788044419690218
+      goblin_arc_planche_complete_59: -873762335006542194
+      goblin_arc_planche_complete_6: 5769887600475032930
+      goblin_arc_planche_complete_60: 1951892463478721606
+      goblin_arc_planche_complete_61: 1807358812913355252
+      goblin_arc_planche_complete_62: -8489765778941581737
+      goblin_arc_planche_complete_63: -4643551545849506394
+      goblin_arc_planche_complete_64: 1261405012244618852
+      goblin_arc_planche_complete_65: -6649352004828444023
+      goblin_arc_planche_complete_66: 4146286202048093267
+      goblin_arc_planche_complete_67: -1009798111918387739
+      goblin_arc_planche_complete_68: -5721384760315361906
+      goblin_arc_planche_complete_69: -792755816871038122
+      goblin_arc_planche_complete_7: -6309555172211124550
+      goblin_arc_planche_complete_70: -9184632953805895399
+      goblin_arc_planche_complete_71: 107051269967920164
+      goblin_arc_planche_complete_72: -2077317370721073516
+      goblin_arc_planche_complete_73: -652335032783559104
+      goblin_arc_planche_complete_74: 289661718428736406
+      goblin_arc_planche_complete_75: 8603011890796750707
+      goblin_arc_planche_complete_76: 6205322882425121179
+      goblin_arc_planche_complete_77: -8939861833939048144
+      goblin_arc_planche_complete_78: 7772470463309596824
+      goblin_arc_planche_complete_79: -5148329001667670510
+      goblin_arc_planche_complete_8: 7920867510506354235
+      goblin_arc_planche_complete_80: -3307268222032501250
+      goblin_arc_planche_complete_81: 726179601571293463
+      goblin_arc_planche_complete_82: 7750102967632363534
+      goblin_arc_planche_complete_83: 5050741141979164940
+      goblin_arc_planche_complete_84: 4327690815157836209
+      goblin_arc_planche_complete_85: -4146978625951322594
+      goblin_arc_planche_complete_86: -4772138839067565165
+      goblin_arc_planche_complete_87: -2903276289081684010
+      goblin_arc_planche_complete_88: -8998892169051809609
+      goblin_arc_planche_complete_89: 7804612307784053782
+      goblin_arc_planche_complete_9: 1517981290686073977
+      goblin_arc_planche_complete_90: 3077398769710188334
+      goblin_arc_planche_complete_91: -5726099905591692869
+      goblin_arc_planche_complete_92: -7190421858402303203
+      goblin_arc_planche_complete_93: -399023116770939112
+      goblin_arc_planche_complete_94: 3957873722564151988
+      goblin_arc_planche_complete_95: -7157894923992832158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
