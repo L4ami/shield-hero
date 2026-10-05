@@ -3,11 +3,13 @@
 ![Unity 6](https://img.shields.io/badge/Unity-6000.6-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-MonoBehaviour-239120)
 ![URP 2D](https://img.shields.io/badge/Rendu-URP%202D-4B5563)
+![Web](https://img.shields.io/badge/Web-jouable%20en%20ligne-2EA44F)
 
 Jeu d'arcade 2D en vue du dessus, réalisé avec **Unity 6** et **C#**.
 
 Un chevalier est encerclé par quatre gobelins archers dans une salle de donjon. Les flèches enflammées arrivent du haut, du bas, de la gauche ou de la droite : il faut tourner son bouclier du bon côté, au bon moment, pour les parer.
 
+**Jouer en ligne : https://l4ami.github.io/shield-hero/** (clavier requis)<br>
 **Documentation technique du code : [DOCUMENTATION.md](DOCUMENTATION.md)**
 
 ## Règles du jeu
@@ -92,6 +94,8 @@ Les décors viennent d'un pack gratuit dont la licence interdit la redistributio
    À faire **avant** la première ouverture : sans les images, Unity supprime leurs `.meta` et la map perd ses tuiles.
 4. Unity Hub → **Add** → **Add project from disk** → choisir le dossier `shield-hero`.
 5. Ouvrir `Assets/Scenes/Dungeon.unity` et lancer **Play**.
+
+Pour simplement jouer, pas besoin de Unity : [version en ligne](https://l4ami.github.io/shield-hero/).
 
 ## Pistes d'évolution
 

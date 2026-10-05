@@ -773,6 +773,7 @@ public class ScoreUpdater : MonoBehaviour
 - `TextMeshProUGUI` est le composant texte de TextMesh Pro dans un Canvas (l'interface affichée par-dessus le jeu). La ligne `using TMPro;` en haut du fichier permet de l'utiliser.
 - `FindAnyObjectByType<State>()` cherche dans la scène un objet qui porte un `State` : il n'y en a qu'un, le chevalier.
 - `$"Score : {heros.score} pts"` est une **chaîne interpolée** : le `$` permet d'insérer une variable entre accolades directement dans le texte.
+- Le texte est ancré en haut à gauche de l'écran, et le Canvas s'adapte à la taille de l'écran (Canvas Scaler en mode *Scale With Screen Size*, référence 1280 × 720) : le score reste visible quelle que soit la résolution.
 
 ### 6.9 Scripts présents mais non utilisés
 
@@ -847,6 +848,7 @@ Temps de réaction : 1 s de charge, puis 0,9 s (flèche du bas, la plus proche) 
 | La scène du jeu n'était pas dans la liste des scènes à exporter : une build aurait affiché une scène vide | Seule `SampleScene`, la scène vide du modèle de projet, y figurait | `Dungeon` ajoutée dans File → Build Profiles → Scene List |
 | La résolution Web par défaut aurait coupé le premier cœur | 960 × 600 (format 16:10) est plus étroit que le 16:9 prévu | Résolution de la version Web réglée en 1280 × 720 |
 | Les tilesets ne peuvent pas être publiés | La licence du pack Cainos interdit la redistribution | Images exclues par le `.gitignore`, réglages `.meta` publiés, procédure dans le README. La build jouable, elle, a le droit de les contenir |
+| Le score n'apparaissait pas dans la version Web | Le Canvas était en taille constante ×2 et le texte placé par rapport au centre : en 1280 × 720, il sortait de l'écran (il n'était visible que sur un grand écran) | Canvas Scaler passé en *Scale With Screen Size* (référence 1280 × 720) et texte du score ancré en haut à gauche |
 | Une build compressée ne se charge pas sur GitHub Pages | Les fichiers compressés par Unity demandent un réglage du serveur que GitHub Pages ne permet pas | Compression désactivée (Player Settings → Publishing Settings → Compression Format : Disabled) |
 | Deux outils de versionnage dans le même dossier | Le dossier du projet est un espace de travail Unity Version Control (`.plastic`) | Publication depuis une copie propre du projet, dans un dossier séparé suivi par Git |
 
